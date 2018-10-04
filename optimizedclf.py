@@ -20,7 +20,7 @@ import time
 
 
 
-DATADIR = 'C:/datasets/train'
+DATADIR = 'C:/datasets/train' #my datadir, download yours at https://www.kaggle.com/c/dogs-vs-cats/data and choose your prefered dir
 CATEGORIES = ["Dog", "Cat"]
 
 IMG_SIZE = 100
